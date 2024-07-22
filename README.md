@@ -1,6 +1,6 @@
 <h1>Olá, Eu sou o Romulo Lobato 👋</h1>
 <p>Sou um desenvolvedor front-end com 1 ano de 
-experiência, mas também com conhecimento em backend. Meu foco é criar soluções eficientes e elegantes que proporcionem uma ótima experiência ao usuário. Além do desenvolvimento, também me interesso por compartilhamento de conhecimento e colaboração em projetos open source.</p>
+experiência, mas também com conhecimento em backend. Meu foco é criar soluções eficientes e elegantes que proporcionem uma ótima experiência ao usuário</p>
 <br>
 <div align="center">
   <a href="https://www.instagram.com/romulolobato20/" target="_blank">
