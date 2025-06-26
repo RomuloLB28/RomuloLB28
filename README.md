@@ -1,5 +1,5 @@
 <h1>Olá, Eu sou o Romulo Lobato 👋</h1>
-<p>Sou um desenvolvedor fullstack com 1 ano de 
+<p>Sou um desenvolvedor fullstack com 2 ano de 
 experiência, com foco em backend. Meu objetivo é criar soluções eficientes e elegantes que proporcionem uma ótima experiência ao usuário</p>
 <br>
 <div align="center">
