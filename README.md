@@ -23,7 +23,7 @@ experiência, com foco em backend. Meu objetivo é criar soluções eficientes e
 </div>
 <br>
 <p></p>
-<p>Essas são as tecnologias que utilizo no dia a dia, uso HTML5, CSS3, JavaScript, tailwind css e React para criar interfaces web dinâmicas. Além disso, uso Node.js para desenvolvimento de servidores e APIs, Python para automação e MySQL para gerenciamento de bancos de dados.</p>
+<p>Essas são as tecnologias que utilizo no dia a dia, uso HTML5, CSS3, JavaScript, tailwind css e React para criar interfaces web dinâmicas. Além disso, uso Node.js e Nest para desenvolvimento de servidores e APIs, Python para automação e MySQL para gerenciamento de bancos de dados.</p>
 <div style="display: inline_block" align="center">
   <img align="center" height="80" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="HTML5" />
   <img align="center" height="80" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="CSS3" />
