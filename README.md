@@ -18,7 +18,7 @@ experiência, com foco em backend. Meu objetivo é criar soluções eficientes e
 </div>
 <br>
 <div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=romuloLB28&show_icons=true&theme=tokyonight&hide_border=true" alt="Romulo Lobato GitHub stats">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=romuloLB28&show_icons=true&theme=tokyonight&hide_border=true" alt="Romulo Lobato GitHub Stats">
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romuloLB28&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas">
 </div>
 <br>
