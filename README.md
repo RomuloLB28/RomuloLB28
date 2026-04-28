@@ -1,5 +1,5 @@
 <h1>Olá, Eu sou Romulo Lobato 👋</h1>
-<p>Sou um desenvolvedor fullstack com 2 ano de 
+<p>Sou um desenvolvedor fullstack com 3 ano de 
 experiência, com foco em backend. Meu objetivo é criar soluções eficientes e elegantes que proporcionem uma ótima experiência ao usuário</p>
 <br>
 <div align="center">
@@ -21,15 +21,15 @@ experiência, com foco em backend. Meu objetivo é criar soluções eficientes e
 <br>
 <p></p>
 <p>Essas são as tecnologias que utilizo no dia a dia, uso HTML5, CSS3, JavaScript, tailwind css e React para criar interfaces web dinâmicas. Além disso, uso Node.js e Nest para desenvolvimento de servidores e APIs, Python para automação e MySQL para gerenciamento de bancos de dados.</p>
-<div style="display: inline_block" align="center">
-  <img align="center" height="80" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="HTML5" />
-  <img align="center" height="80" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="CSS3" />
-  <img align="center" height="80" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" />
-  <img align="center" height="80" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" />
-  <img align="center" height="80" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" />
-  <img align="center" height="100" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" />
-  <img align="center" height="100" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" />
-  <img align="center" height="100" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
-  <img align="center" height="100" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"/> 
-  <img align="center" height="100" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" alt="MySQL" />
+<div style="display: flex; flex-wrap: wrap; justify-content: left; gap: 20px;">
+  <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="HTML5" />
+  <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="CSS3" />
+  <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" />
+  <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" />
+  <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" />
+  <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" />
+  <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" />
+  <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NestJS" />
+  <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" /> 
+  <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" alt="MySQL" />
 </div>
