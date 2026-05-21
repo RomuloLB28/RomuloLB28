@@ -14,10 +14,12 @@ experiência, com foco em backend. Meu objetivo é criar soluções eficientes e
   </a>
 </div>
 <br>
+<!-- 
 <div align="center">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=romuloLB28&show_icons=true&theme=tokyonight&hide_border=true" alt="Romulo Lobato GitHub Stats">
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romuloLB28&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas">
 </div>
+-->
 <br>
 <p></p>
 <p>Essas são as tecnologias que utilizo no dia a dia, uso HTML5, CSS3, JavaScript, tailwind css e React para criar interfaces web dinâmicas. Além disso, uso Node.js e Nest para desenvolvimento de servidores e APIs, Python para automação e MySQL para gerenciamento de bancos de dados.</p>
