@@ -7,21 +7,21 @@
 <!-- Estatísticas Gerais e Linguagens Mais Usadas (Servidor Ativo GitHub Stats Extended) -->
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=RomuloLB28&show_icons=true&theme=react&hide_border=true&count_private=true" alt="Estatísticas do GitHub" height="170" />
-   
+   
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RomuloLB28&layout=compact&theme=react&hide_border=true&hide=html" alt="Linguagens mais usadas" height="170" />
 </p>
 
 <br>
 
 <p align="center">
-  <a href="https://www.instagram.com/romulolobato20/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" /></a> 
-  <a href="mailto:romulo.lobato28@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" /></a> 
+  <a href="https://www.instagram.com/romulolobato20/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" /></a> 
+  <a href="mailto:romulo.lobato28@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" /></a> 
   <a href="https://www.linkedin.com/in/romulo-lobato/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" /></a>
 </p>
 
 <br>
 
-<p>Essas são as tecnologias que utilizo no dia a dia. No front-end, utilizo React, Next.js, Tailwind CSS e CSS3 para criar interfaces dinâmicas e reativas. No back-end e ecossistema de IA, trabalho com Node.js, NestJS, Python e FastAPI para construção de APIs robustas e microsserviços. Para persistência de dados, utilizo PostgreSQL, MySQL e MongoDB.</p>
+<p>Essas são as tecnologias que utilizo no dia a dia. No front-end, utilizo React, Next.js, Tailwind CSS e CSS3 para criar interfaces dinâmicas e reativas. No back-end, microsserviços e ecossistema de IA, trabalho com Node.js, NestJS, Python e FastAPI para construção de APIs robustas. Para persistência de dados, utilizo PostgreSQL, MySQL e MongoDB. Além disso, conto com Docker para containerização e AWS para infraestrutura e serviços em nuvem.</p>
 
 <!-- Tabela com tecnologias -->
 <table align="center">
@@ -41,7 +41,11 @@
     <td align="center" width="100"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" /></td>
   </tr>
   <tr>
-    <td align="center" width="100" colspan="1.5"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" /></td>
-    <td align="center" width="100" colspan="1.5"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" /></td>
+    <td align="center" width="100"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" /></td>
+    <td align="center" width="100"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" /></td>
+    <td align="center" width="100"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" /></td>
+  </tr>
+  <tr>
+    <td align="center" width="100" colspan="3"><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" /></td>
   </tr>
 </table>
